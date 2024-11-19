@@ -2,3 +2,6 @@
 Recuperação RA1 Lista Dupla Encadeada 
 
 Lista encadeada em java para simular um historico web feita em java, permitindo que o usario possa inserir, remover, e listar todas as paginas visitadas.
+
+Video da explicacao
+https://youtu.be/Y7GLv-Be7dY
